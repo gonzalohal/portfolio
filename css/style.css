@@ -641,7 +641,7 @@ header.mobile-header-1 .site-logo {
 }
 header.mobile-header-1 .site-logo img {
   max-height: 150px;
-  margin: 15% 100% 0% 100%;
+  margin: 15% 100% 0% 50%;
 }
 header.mobile-header-1.light {
   background: #F9F9FF;
